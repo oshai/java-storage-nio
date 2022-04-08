@@ -1,5 +1,18 @@
 # Changelog
 
+### [0.123.28](https://github.com/googleapis/java-storage-nio/compare/v0.123.27...v0.123.28) (2022-04-08)
+
+
+### Bug Fixes
+
+* **native:** initialize classes at build-time to fix Native Image compilation ([#874](https://github.com/googleapis/java-storage-nio/issues/874)) ([df905cb](https://github.com/googleapis/java-storage-nio/commit/df905cbb615f2a6f57d45397423556357b23fa38))
+
+
+### Dependencies
+
+* update dependency com.google.apis:google-api-services-storage to v1-rev20220401-1.32.1 ([#881](https://github.com/googleapis/java-storage-nio/issues/881)) ([a598199](https://github.com/googleapis/java-storage-nio/commit/a598199247e5d29712aeba0b709ce9f37e641154))
+* update dependency com.google.cloud:google-cloud-storage to v2.6.0 ([#878](https://github.com/googleapis/java-storage-nio/issues/878)) ([0bd1985](https://github.com/googleapis/java-storage-nio/commit/0bd19858569d4181be49e60525d9ad5736b9e1ab))
+
 ### [0.123.27](https://github.com/googleapis/java-storage-nio/compare/v0.123.26...v0.123.27) (2022-03-29)
 
 
